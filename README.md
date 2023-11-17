@@ -54,6 +54,23 @@ https://colab.research.google.com/drive/1PaaBR_SbCLHMlZHF_vpWx4m-znbVvNBr#scroll
     ![pic4](pic4.jpg)
   
     ![pic5](pic5.jpg)
+
+  - **plz rename your video as video.mp4 & image as image.jpg** like this 👇
+ 
+    
+  ![pic6](pic6.jpg)
+
+  - Now you need to run cell CMD 2 or cell CMD 3 ( this depend on your choice )
+    **( Cell CMD 2 has Low quality & Cell CMD 3 has High quality )**
+
+
+  ![pic7](pic7.jpg)
+
+  After Process Completed the out put will apear hear ...
+
+  ![pic8](pic8.jpg)
+
+  **Enjoy the Tool , Have FUN 😂**
   
 
   
