@@ -34,7 +34,7 @@ https://colab.research.google.com/drive/1PaaBR_SbCLHMlZHF_vpWx4m-znbVvNBr?usp=sh
 - Now you can send me a request here and in addition follow me on github and star this repo and take a screenshot and inbox me on 
   whatsapp along with the gmail where you have sent your access request.
   
-  here is my number wa.me/+94713910417
+  here is my number https://wa.link/9oyvrj
 
 -  Then I will approve your request after considering your screenshots.
 -  Now you need to click the above link again or refresh the page.
