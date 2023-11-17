@@ -66,7 +66,7 @@ https://colab.research.google.com/drive/1PaaBR_SbCLHMlZHF_vpWx4m-znbVvNBr#scroll
 
   ![pic7](pic7.jpg)
 
-  After Process Completed the out put will apear hear ...
+- After Process Completed the out put will apear hear ...
 
   ![pic8](pic8.jpg)
 
