@@ -40,7 +40,7 @@ https://colab.research.google.com/drive/1PaaBR_SbCLHMlZHF_vpWx4m-znbVvNBr#scroll
 -  Now you need to click the above link again or refresh the page.
 -  Now you will be able to see an interface like this.
   
-  ![pic](pic2.png)
+  ![pic](pic2.jpg)
 
 
 
