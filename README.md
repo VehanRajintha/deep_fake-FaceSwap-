@@ -27,9 +27,6 @@
 https://colab.research.google.com/drive/1PaaBR_SbCLHMlZHF_vpWx4m-znbVvNBr?usp=sharing
 ````
   
-  ````
-  https://colab.research.google.com/drive/1PaaBR_SbCLHMlZHF_vpWx4m-znbVvNBr?usp=sharing
-  ....
 
 
 
