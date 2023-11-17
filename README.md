@@ -72,6 +72,26 @@ https://colab.research.google.com/drive/1PaaBR_SbCLHMlZHF_vpWx4m-znbVvNBr#scroll
 
   **Enjoy the Tool , Have FUN 😂**
 
+  **Here The Cell Commands (IF YOU NEED)**
+  
+````
+!git clone https://github.com/FurkanGozukara/roop
+%cd roop
+#Tested and updated 23 August 2023 commit
+#!git checkout da1ef285f1d43bd0cc8b9cdb9a0f80f7ae793a97
+!pip install onnxruntime-gpu && pip install -r requirements.txt
+````
+
+ ````
+%cd "/content/roop"
+!python run.py -s "/content/image.jpg" -t "/content/video.mp4" -o "/content/face_changed_video_v2.mp4" --keep-frames --keep-fps --temp-frame-quality 1 --output-video-quality 1 --execution-provider cuda
+````
+
+````
+%cd "/content/roop"
+!python run.py -s "/content/image.jpg" -t "/content/video.mp4" -o "/content/face_restored_video3.mp4" --keep-frames --keep-fps --temp-frame-quality 1 --output-video-quality 1 --execution-provider cuda --frame-processor face_swapper face_enhancer
+````
+
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&pause=1000&color=F73E07&random=false&width=435&lines=%F0%9F%9A%AB+This+Does+not+Support+Porn+content+;I+am+not+responsible+for+any+actions+you+take+;using+this+Tool+...)](https://git.io/typing-svg)
   
 
