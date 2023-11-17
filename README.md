@@ -55,12 +55,12 @@ https://colab.research.google.com/drive/1PaaBR_SbCLHMlZHF_vpWx4m-znbVvNBr#scroll
   
     ![pic5](pic5.jpg)
 
-  - **plz rename your video as video.mp4 & image as image.jpg** like this 👇
+- **plz rename your video as video.mp4 & image as image.jpg** like this 👇
  
     
   ![pic6](pic6.jpg)
 
-  - Now you need to run cell CMD 2 or cell CMD 3 ( this depend on your choice )
+- Now you need to run cell CMD 2 or cell CMD 3 ( this depend on your choice )
     **( Cell CMD 2 has Low quality & Cell CMD 3 has High quality )**
 
 
