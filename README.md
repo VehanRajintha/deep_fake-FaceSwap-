@@ -21,4 +21,10 @@
 ![developer](https://img.shields.io/static/v1?label=Author&message=Vehan%20Rajintha&color=purple&style=plastic)
 
 
+- First you need to Copy and Past the below link in your Browser.
+  ...
+  https://colab.research.google.com/drive/1PaaBR_SbCLHMlZHF_vpWx4m-znbVvNBr?usp=sharing
+  ...
+
+
 
