@@ -40,7 +40,22 @@ https://colab.research.google.com/drive/1PaaBR_SbCLHMlZHF_vpWx4m-znbVvNBr#scroll
 -  Now you need to click the above link again or refresh the page.
 -  Now you will be able to see an interface like this.
   
-  ![pic](pic2.jpg)
+  ![pic2](pic2.jpg)
 
+- Now click the Connect button (it will take few seconds)
+  
+- After Connected Now you need to Run Cell CMD 1 by clicking the play button (This is compulsory)
+
+  ![pic3](pic3.jpg)
+
+
+- Now You need to upload your Target Video(.mp4) & Target image(.jpg) by clicking file icon in left side.
+
+    ![pic4](pic4.jpg)
+  
+    ![pic5](pic5.jpg)
+  
+
+  
 
 
