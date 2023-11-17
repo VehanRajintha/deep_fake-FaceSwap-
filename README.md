@@ -29,7 +29,7 @@ https://colab.research.google.com/drive/1PaaBR_SbCLHMlZHF_vpWx4m-znbVvNBr?usp=sh
 
 - Then you will be redirected to an interface like this 👇
 
-  ![pic](pic.png)
+  ![pic](pic.jpg)
 
   
   
