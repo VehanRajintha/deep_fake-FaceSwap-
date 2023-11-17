@@ -24,7 +24,7 @@
 - First you need to Copy and Past the below link in your Browser.
 
 ````
-https://colab.research.google.com/drive/1PaaBR_SbCLHMlZHF_vpWx4m-znbVvNBr#scrollTo=G9BdiCppV6AS
+https://colab.research.google.com/drive/1sQ7Z0GyFCKuv0zH1S7RrRm6Fyi911hP0?usp=sharing
 ````
 
 - Then you will be redirected to an interface like this 👇
